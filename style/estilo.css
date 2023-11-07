@@ -1,0 +1,13 @@
+.Perfil{
+    display: flex;
+}
+h1{
+    text-align: center;
+}
+p{
+
+}
+.imagem{
+    border: 1px solid black;
+    border-radius: 50px 50px;
+}
