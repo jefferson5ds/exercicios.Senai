@@ -5,9 +5,19 @@ h1{
     text-align: center;
 }
 p{
-
+text-align: justify;
+text-indent:;
 }
 .imagem{
     border: 1px solid black;
-    border-radius: 50px 50px;
+    border-radius: 50px;
+}
+.jefferson{
+    padding: 10px;
+}
+.descricao{
+    padding: 10px;
+}
+main{
+    background-color: rgba(34, 36, 151, 0.861);
 }

@@ -1,0 +1,26 @@
+main{ 
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px 10px;
+  width: 800px;
+  height: 700px;
+  text-align: center; 
+  border: 1px solid black;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px black;
+
+
+}
+
+.imagem{
+    box-shadow: 1px 1px 1px red;
+    border-radius: 50px;
+   position: absolute;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+}
