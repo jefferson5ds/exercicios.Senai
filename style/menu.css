@@ -1,13 +1,26 @@
 header{
+    display: flex;
     
+    background-color: aqua;
+    text-decoration: none;
 }
 li{
-  
+    text-decoration: none;
+    padding: 5px;
+    
+ 
 }
 ul{
-   
+    text-decoration: none;
+    padding: 10px;
 }
-nav{
-    background-color: aqua;
+header >li{
+    text-decoration: none;
+}
+
+nav > a {
+    text-decoration: none;
+}
+a{
     text-decoration: none;
 }
