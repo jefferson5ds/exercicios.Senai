@@ -1,0 +1,38 @@
+.text{
+background-color: rgb(95, 160, 98);
+padding: 5px;
+margin: 5px;
+}
+.text01{
+background-color: cadetblue;
+padding: 5px;
+margin: 5px;
+}
+.text02{
+    background-color: blue;
+    padding: 5px;
+    margin: 5px;
+}
+.text03{
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 5px;
+}
+main{
+    display: inline-grid;
+    grid-template-columns: 200px 200p 200px;
+    grid-template-rows: 200px 200px 200px;
+    
+    padding: 10px;
+    margin: 5px;  
+    
+
+}
+div{
+    display: inline-grid;
+
+}
+p{
+    
+        display: inline-grid;
+}
