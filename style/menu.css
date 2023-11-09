@@ -1,7 +1,5 @@
 header{
     
-    display: flex;
-    
 }
 li{
   
@@ -9,5 +7,7 @@ li{
 ul{
    
 }
-
-    
+nav{
+    background-color: aqua;
+    text-decoration: none;
+}
