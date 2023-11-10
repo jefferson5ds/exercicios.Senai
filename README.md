@@ -1,2 +1,2 @@
 # exercicios.Senai
- Ecercicios excola Senai
+ Exercicios escola Senai
